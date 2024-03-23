@@ -1,0 +1,15 @@
+.text {
+    font-family: "Comfortaa", sans-serif;
+    color: black;
+}
+
+#body {
+    background-image: url("cfd7eb7ecd283f26ce7c25bd726b529b.jpg");
+    background-size: contain;
+}
+
+canvas {
+    background-color: #ddc6be;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgb(92, 92, 92);   
+}
